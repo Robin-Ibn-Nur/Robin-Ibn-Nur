@@ -50,7 +50,7 @@
 ### 🌱 I’m exploring - React-Native. 
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 3 languages.
+### ⚡ Fun fact - I love to work complex job and I can speak 3 languages.
 
 
 <br />
