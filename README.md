@@ -58,7 +58,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://r-o-b-i-n.netlify.app/](https://r-o-b-i-n.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://r-o-b-i-n.netlify.app/)
 
 - 💬 Ask me about **react.js, express.js node.js, MongoDB, react-native**
 
@@ -70,4 +70,4 @@
 <a href="https://discord.gg/robinibnnur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="robinibnnur" height="30" width="40" /></a></div>
 <br />
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1od9AuE7ZjiOckzvM_1tbR8_CYX3QEfpK/view?usp=sharing](https://drive.google.com/file/d/1od9AuE7ZjiOckzvM_1tbR8_CYX3QEfpK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1od9AuE7ZjiOckzvM_1tbR8_CYX3QEfpK/view?usp=sharing)
