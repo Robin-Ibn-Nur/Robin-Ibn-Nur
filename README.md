@@ -1,4 +1,4 @@
-![covor photo](https://github.com/Robin-Ibn-Nur/robin/blob/main/banner.png)
+![covor photo](https://github.com/Robin-Ibn-Nur/robin/blob/main/LinkedIn.png)
 <br />
 
 ## :eyes: Current overview
