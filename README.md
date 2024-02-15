@@ -1,10 +1,11 @@
-![covorphoto](https://github.com/Robin-Ibn-Nur/robin/blob/main/LinkedIn.png)
+<a href="https://www.facebook.com/robinibnnur/"><img align="right" src="https://github.com/Robin-Ibn-Nur/robin/blob/main/LinkedIn.png" alt="MD. ROBIN's Profile"/></a>
+
 <br />
 
 ## :eyes: Current overview
 ---
 <div align="left">
-<a href="https://app.daily.dev/robinibnnur"><img align="right" src="https://api.daily.dev/devcards/eb3477c296bf4fc8b9f9a0a091c840ba.png?r=1f4" width="400" alt="MD. ROBIN's Dev Card"/></a>
+<a href="https://app.daily.dev/robinibnnur"><img align="right" src="https://api.daily.dev/devcards/eb3477c296bf4fc8b9f9a0a091c840ba.png?r=1f4" height="380" width="320" alt="MD. ROBIN's Dev Card"/></a>
 </div>
 
 ### 🔭 I’m currently working - In my personal projects. 
