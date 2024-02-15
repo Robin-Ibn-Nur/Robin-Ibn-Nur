@@ -1,7 +1,5 @@
-<a href="https://www.facebook.com/robinibnnur/"><img align="right" src="https://github.com/Robin-Ibn-Nur/robin/blob/main/LinkedIn.png" alt="MD. ROBIN's Profile"/></a>
-
-<br />
-
+<a href="https://www.facebook.com/robinibnnur/"><img align="right" src="https://github.com/Robin-Ibn-Nur/robin/blob/main/LinkedIn.png" height="220" alt="MD. ROBIN's Profile"/></a>
+---
 ## :eyes: Current overview
 ---
 <div align="left">
