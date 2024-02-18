@@ -3,7 +3,7 @@
 ## :eyes: Current Overview
 ---
 <div align="left">
-<a href="https://app.daily.dev/robinibnnur"><img align="right" src="https://api.daily.dev/devcards/eb3477c296bf4fc8b9f9a0a091c840ba.png?r=1f4" height="380" width="320" alt="MD. ROBIN's Dev Card"/></a>
+<a href="https://app.daily.dev/robinibnnur"><img align="right" src="https://api.daily.dev/devcards/eb3477c296bf4fc8b9f9a0a091c840ba.png?r=1f4" height="350" width="280" alt="MD. ROBIN's Dev Card"/></a>
 </div>
 
 ### 🔭 I’m currently working - In my personal projects. 
