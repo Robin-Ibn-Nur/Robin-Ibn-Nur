@@ -7,12 +7,12 @@
 </div>
 
 ### 🔭 I’m currently working - In my personal projects. 
-### 🌱 I’m exploring - Next.js. 
+### 🌱 I’m exploring - Next.JS. 
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to work complex job and I can speak 3 languages.
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Node-Mongo**
 - 👨‍💻 All of my projects are available at [Portfolio](https://r-o-b-i-n.netlify.app/)
 - 💬 Ask me about **React.js, Express.js, Node.js, MongoDB, React-Native**
 - 📄 [Download My Resume](https://drive.google.com/file/d/1od9AuE7ZjiOckzvM_1tbR8_CYX3QEfpK/view?usp=sharing) | 📑 [Download My CV](https://drive.google.com/file/d/1IVfDc50qhHdxgziTrz_dip_2BUv2ksK0/view?usp=sharing)
