@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Node-Mongo**
 - 👨‍💻 All of my projects are available at [Portfolio](https://r-o-b-i-n.netlify.app/)
-- 💬 Ask me about **React.js, Express.js, Node.js, MongoDB, React-Native**
+- 💬 Ask me about **React.js, Express.js, Node.js, MongoDB, React-Native, Next.js**
 - 📄 [Download My Resume](https://drive.google.com/file/d/1od9AuE7ZjiOckzvM_1tbR8_CYX3QEfpK/view?usp=sharing) | 📑 [Download My CV](https://drive.google.com/file/d/1IVfDc50qhHdxgziTrz_dip_2BUv2ksK0/view?usp=sharing)
 
 
